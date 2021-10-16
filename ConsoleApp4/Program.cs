@@ -6,7 +6,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Frog");
+            Console.WriteLine("Nikolay appeared");
         }
     }
 }
